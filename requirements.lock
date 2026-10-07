@@ -1,0 +1,18 @@
+# Exact runtime versions validated against the existing installation.
+# Python 3.9 compatibility is retained; audioop-lts is needed on 3.13+.
+aiohappyeyeballs==2.6.1
+aiohttp==3.13.5
+aiosignal==1.4.0
+async-timeout==5.0.1 ; python_version < "3.11"
+attrs==26.1.0
+audioop-lts==0.2.2 ; python_version >= "3.13"
+discord.py==2.7.1
+frozenlist==1.8.0
+idna==3.18
+multidict==6.7.1
+Pillow==11.3.0
+propcache==0.4.1
+python-dotenv==1.2.1
+typing_extensions==4.16.0
+tzdata==2026.3
+yarl==1.22.0

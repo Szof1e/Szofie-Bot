@@ -1,0 +1,1113 @@
+{
+  "schema_version": 1,
+  "collection": "Szofie runtime game artwork",
+  "code_licence": "MIT; artwork excluded from the code licence",
+  "media_rights_status": "Third-party character, design, reference and source-clip rights are not independently cleared. Attribution is not a redistribution licence. Review ARTWORK_NOTICES.md before public distribution.",
+  "metadata": "PNG textual and EXIF metadata removed without changing pixel data. Original references, prompts, personal coalition art and obsolete loading variants excluded.",
+  "artworks": [
+    {
+      "file": "aa/aa1.gif",
+      "bytes": 1561663,
+      "sha256": "89ee6188c44c23aab9ad0bd341dd887d347f4367088e0e56fbf40a93b2636f4e",
+      "provenance_group": "aa"
+    },
+    {
+      "file": "aa/aa2.gif",
+      "bytes": 1210613,
+      "sha256": "2cccb3ba9a7d6e6470085d3a371956682858011e09099275978d3ad64108025f",
+      "provenance_group": "aa"
+    },
+    {
+      "file": "death_star/deathstar-charge.png",
+      "bytes": 2247617,
+      "sha256": "8d10e7fe2985b900398db66f64c1192be44e4c9dc0fcb327ec75862914a032d7",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "death_star/deathstar-construction.png",
+      "bytes": 2551588,
+      "sha256": "452641521c781e0227e1325ae520e990a2ce6c5dd860a77cde2b0afff72b366c",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "death_star/deathstar-impact.png",
+      "bytes": 2751670,
+      "sha256": "f64b3ad49c689df476a7b40886c6661575fbb87e9b59f71a35ce028ea3c00f75",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "death_star/deathstar-industry.png",
+      "bytes": 2431250,
+      "sha256": "ba70bdeaa510c4d7998fe266aed55903602dc7aa8beeea2a2adfd37669b789cc",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "death_star/deathstar-interception.png",
+      "bytes": 2378301,
+      "sha256": "8974761207f56ad400f9d44b2331005b203f3b5d24029bb466a15f022fa708e1",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "death_star/deathstar-operational.png",
+      "bytes": 2327372,
+      "sha256": "dd3afb66e4334ff879f09acabebf1924bd4baafd08ec3101c889e7b4c60ebef4",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "death_star/deathstar-reconstruction.png",
+      "bytes": 3236455,
+      "sha256": "83a018dd7e1851940ea392eab483ec1ce78da64800f0466e0c48edb43f34733f",
+      "provenance_group": "death_star"
+    },
+    {
+      "file": "icbm/icbm1.gif",
+      "bytes": 2126318,
+      "sha256": "25f0baee77a9b960b6d865d2600b21c8999f8fbbc887bae0bc5ebf637a3fa02e",
+      "provenance_group": "icbm"
+    },
+    {
+      "file": "icbm/icbm2.gif",
+      "bytes": 6141622,
+      "sha256": "b4061c3f143a78fe518d3d54ebb40c4b3a49b38a4ce905065c2b941dfdd7f367",
+      "provenance_group": "icbm"
+    },
+    {
+      "file": "icbm/icbm3.gif",
+      "bytes": 3753555,
+      "sha256": "6e5e9f46c126cba2f35e72e80ed46289d11d4d34cdd433236ed4d7354db05b68",
+      "provenance_group": "icbm"
+    },
+    {
+      "file": "icbm/icbm4.gif",
+      "bytes": 4068683,
+      "sha256": "f4a462d2651e983d6a20151ca533c1723e083d8ee8c72ae1a3b69e443aa7b28f",
+      "provenance_group": "icbm"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-bwing-intercept.png",
+      "bytes": 2655423,
+      "sha256": "782f5cf21903e08cbbf85ed787b749be65b4d4a25f5da8358323f2c3a1191fcf",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-cinder-charge.png",
+      "bytes": 2331727,
+      "sha256": "9374b01578a2531e9d695a7b5ed7912c6b297b7ff533d328d4c4e70372729861",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-cinder-impact.png",
+      "bytes": 2283781,
+      "sha256": "779b37d1dae35c27b97ca91162d04a5ba3471784e76c3be052185459c95d9145",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-cinder-intercepted.png",
+      "bytes": 2307543,
+      "sha256": "b130ed686a6397a2d3381b46d5a6a859fa511ea1f5ca97dce4fb43d95792034c",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-component-launch.png",
+      "bytes": 2489035,
+      "sha256": "6fc001f8e22a959f4f02d717c10ed8ef5bb3f8e1ca56c43abb7ea7074edbc9c3",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-orbital-assembly.png",
+      "bytes": 2670882,
+      "sha256": "d287f33c68cbfe5db4443f9368fe894bbb0473468b582376e77e48d0b79a574b",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "imperial_star_destroyer/isd-shipyard.png",
+      "bytes": 2986803,
+      "sha256": "e20abd9149729313f0c85ab5622298253486007293383489c8b421c6f2fd292c",
+      "provenance_group": "imperial_star_destroyer"
+    },
+    {
+      "file": "items/android21-autonomous-helper.png",
+      "bytes": 2085770,
+      "sha256": "0bffecef84c96c8765c1d98be99cde84ec812c630d3ab120e8e5b70ba09cc990",
+      "provenance_group": "items"
+    },
+    {
+      "file": "nuke/a21 1.png",
+      "bytes": 74849,
+      "sha256": "6da84309d823da425bcc9c0dc57f8fb9bb5b9a454b2f21861e3a4499ce7d950d",
+      "provenance_group": "nuke"
+    },
+    {
+      "file": "nuke/a21.png",
+      "bytes": 50909,
+      "sha256": "0b248485d954174825c9c2fc179297a32e6a5848418127bc37e96e944768c06a",
+      "provenance_group": "nuke"
+    },
+    {
+      "file": "nyx/nyx-active.png",
+      "bytes": 2911759,
+      "sha256": "19dacbb272ebda3c3635352638493976e969375e1f15a1e420bc519219168a4a",
+      "provenance_group": "nyx"
+    },
+    {
+      "file": "nyx/nyx-fabrication.png",
+      "bytes": 2659913,
+      "sha256": "4a7f156522bdf8321c79929501c453679e69483dc4b03bf60b26b66dfa446bbc",
+      "provenance_group": "nyx"
+    },
+    {
+      "file": "nyx/nyx-intercepted.png",
+      "bytes": 2430796,
+      "sha256": "121deef7b3ed4b118b7ba93d01d3c69a6344ba751cfdf0297f46b07dcc240b02",
+      "provenance_group": "nyx"
+    },
+    {
+      "file": "nyx/nyx-launch.png",
+      "bytes": 2274050,
+      "sha256": "9b90dfcc808827e2b285aa34f323c99492836a4ba940da71c73cb30ef369946b",
+      "provenance_group": "nyx"
+    },
+    {
+      "file": "nyx/nyx-orbit.png",
+      "bytes": 2842514,
+      "sha256": "fe95c3c3632985215dd7826c1ed243b778fe7371dbbcb3a52cb29409893c89e8",
+      "provenance_group": "nyx"
+    },
+    {
+      "file": "nyx/nyx-ready.png",
+      "bytes": 2571969,
+      "sha256": "36921aa4ea2a5182efd608bd1876bc1cc3b241aa77b610b1ab2e69871aeca85b",
+      "provenance_group": "nyx"
+    },
+    {
+      "file": "plushies/ace.png",
+      "bytes": 2110137,
+      "sha256": "f571abe860968999d32a13de3100c6af016f95c730e96fecc79e4ff94885fe73",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/admiral.png",
+      "bytes": 2152837,
+      "sha256": "3d54f25e5d99f629147e63ad3101957ff0837eb41aa0fad3bba23b00d96bcdab",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/angler.png",
+      "bytes": 2085958,
+      "sha256": "c64c2c0d63fbdad1679d7aef3398f69fce44a14bd5b28914722d0d133e8f56ac",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/autoloader.png",
+      "bytes": 2105067,
+      "sha256": "5f9dd59383bead6c742b3bb04b6d30152a389ebb58af19ba2cc20c2d1357045f",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/cartographer.png",
+      "bytes": 2189228,
+      "sha256": "6a9fdc5fa497decd16099caca72899d45b47f2e7889c52a9f619512f04ea9edc",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/catburglar.png",
+      "bytes": 2089429,
+      "sha256": "6c3b7e3bfb574f90aa0a6ea65556b40803c01620866b358e02aa66c8fbee03ac",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/dealer.png",
+      "bytes": 2061588,
+      "sha256": "1e4db48471ce84ef928fde890e463d6eb8aa13b5f50f8f1d82823baab0108b9c",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/dice.png",
+      "bytes": 84780,
+      "sha256": "eb58b666c6738540da630263ddc10f9db745e7c3ff57aa97e2ed4d7094d84553",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/diplomat.png",
+      "bytes": 2063913,
+      "sha256": "687fcaf5c9c99473ef71d9cb515fe991435fca6f29ca248330c87db4becdf441",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/explorer21.png",
+      "bytes": 2101647,
+      "sha256": "9379db7c0cb6b353938579c25a748250b5f81b1645f6c16ee92d68cc7b5060d8",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/fortune.png",
+      "bytes": 2144382,
+      "sha256": "a004fea3fa87b000592e784ad5676a778fdf3b463e323c5656cf4f73c1c0658c",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/golden.png",
+      "bytes": 2051775,
+      "sha256": "539a5d8748bcd3dcb8896f67c44c937710caf512b2880566a6ab45586f16027c",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/guardian.png",
+      "bytes": 2109982,
+      "sha256": "f4c01a3c0c0614eb69fe1d847f98910d96a7e6f65793454e2568699bf9ade626",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/houdini.png",
+      "bytes": 2040555,
+      "sha256": "629137cdcd4938d9e39bd30a46eccfd9d9e246cc755a7712e897ab5449c65a75",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/icebox.png",
+      "bytes": 2052268,
+      "sha256": "ffa4bd6f0ab2ce7377ce9034b521506ad6aeb40693b4f8f6286f54ab11baf22a",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/kingpin.png",
+      "bytes": 83243,
+      "sha256": "980a097ec85f65decfd131665b5948c30ad67ef77e5367cae61e08e03bfcd3cc",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/labcoat.png",
+      "bytes": 1997887,
+      "sha256": "5edec0afb9322dc294bdcbacd77d3987a97f9ba9a35e79074117db2b28851623",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/majin.png",
+      "bytes": 2051843,
+      "sha256": "a8ff2ddb2a0231d077e5448710480635ae737507861ed41b63ac1fe42abe3675",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/mechanic.png",
+      "bytes": 2198399,
+      "sha256": "8b774a39001cd4e66c37474e8dd06fcd67948806babe9350725b9393708ada31",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/overtime.png",
+      "bytes": 2059749,
+      "sha256": "a0a12de243cabb21902be04843e91e65757aac23503465fd3b23df6a4f088811",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/perfect.png",
+      "bytes": 2055729,
+      "sha256": "4039ab00b9d9ee0707d8eec1477a43ccb7448b26577a5681f3cb26293ccdef4d",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/professor.png",
+      "bytes": 2027727,
+      "sha256": "053534b1a04841339b50adf3f58ead341e84409fdc9a301fcb4e7b8cdd41a437",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/radar.png",
+      "bytes": 2044502,
+      "sha256": "71ffb4ee55736fb621ce02dfc678d3bc0631daa8de1030ccdd4040a6aacb6fc8",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/roulette.png",
+      "bytes": 2054437,
+      "sha256": "906792bd7f0ba65d7dca0a516ad117bea1a9ccf629298baf5ba697b473f95b92",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/scholar.png",
+      "bytes": 2018718,
+      "sha256": "d4a2a1581e33035e9fcd3434da2e35ee8edf5551592eba51a6c9db3be0bb95db",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/silo.png",
+      "bytes": 2065056,
+      "sha256": "53d1c23950afcb8a2cf747c6cdab2f4fe1c6267afede27d8dab045eb77344122",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/slick.png",
+      "bytes": 2106365,
+      "sha256": "0be38fe89455b961f9c5b1d34cbfca6c4612dd91c732976d0bd5db73c15856e9",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/sovereign.png",
+      "bytes": 2047894,
+      "sha256": "76c3792a9942697392cbc167044ac437f2988aee25701cc3beaf6addc61aabd4",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/strategist.png",
+      "bytes": 1958887,
+      "sha256": "913e45ea91cf805bd9f925e8962d7f7f2e6bd5e2adc0785d7b78b5066b22427f",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/sweettooth.png",
+      "bytes": 1968328,
+      "sha256": "190bfc0333326a62a05f8415ceddd76b88b7858ac31fe4802a82ebfe3ddf8fdf",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/vaultkeeper.png",
+      "bytes": 2072788,
+      "sha256": "a6fb940956645b5d708c444b7881d523a42facc969d793fa56fbee5823c0d130",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "plushies/warhead.png",
+      "bytes": 2082174,
+      "sha256": "e476fe95638854fa8189816ea97f124d4ae8f90f02f6805b4aaeb8a0362a9074",
+      "provenance_group": "plushies"
+    },
+    {
+      "file": "space/colony-landing.png",
+      "bytes": 2964314,
+      "sha256": "2c93afa5c0933028fd84d14c835c0e67186ae57fbe7964f99480b3a3d96879a8",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/drake-cutlass-explorer.png",
+      "bytes": 2857003,
+      "sha256": "bcbd834664dda0f212a6813da9761236c99a67e90c51f244eafa8fca0957733b",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-broadside.png",
+      "bytes": 2546772,
+      "sha256": "b1df02958a7150e0f1cf27a47c09466fe3d5b49d465ab173959eacbaf7c1430e",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-build.png",
+      "bytes": 3402763,
+      "sha256": "5ac08c1a650ab2f90543658f82eae8a268f5c0e14da5ffa34b42320c607bd77d",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-damaged.png",
+      "bytes": 2494078,
+      "sha256": "ec819d03f9dd247844d7b0c35f6dc25c15c643d572cc63210d8f07ac630312e1",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-mission.png",
+      "bytes": 2539906,
+      "sha256": "8f664779dc0ea69747cd99f72fbefa86fd0097c7dde6ca7618ff1a6a26e698bd",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-patrol.png",
+      "bytes": 2727830,
+      "sha256": "f08f255fbc0032b27066347710b0f9d2999b3b51d25428f78826d864a4e0ffeb",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-payload.png",
+      "bytes": 3240146,
+      "sha256": "281c96da5c1ac2ed91e1bd3b4d09f2b5a8cbe0e4c2d8007b5055ffbd44a4f5db",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/arquitens-repair.png",
+      "bytes": 3065066,
+      "sha256": "957b6de71059a1012c3dab95efa980cf2c0d7bbf721ff57c61ff2290dd3caf40",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/awing-build.png",
+      "bytes": 2656388,
+      "sha256": "3187e57e98f7484ff20218bff6928b586ca0ea30e0fd185e5aa60f3305a8a6bc",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/awing-damaged.png",
+      "bytes": 2357368,
+      "sha256": "3c67c7bb8340463fa6d4803d8521f87f59c71e5d946c4e8d98b35f31d45d2834",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/awing-mission.png",
+      "bytes": 2346639,
+      "sha256": "0f2aecdb7e6e1a49a33d480c411e2cadd6f5f1c5480c10f8f8364e323823c3d9",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/awing-payload.png",
+      "bytes": 2706253,
+      "sha256": "8e3043c49da7e27e3497773aa43eb4010fefd3091d31bb6435bf69ea227733f0",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/awing-repair.png",
+      "bytes": 2522395,
+      "sha256": "5cc1bd8a8c536e56db74dd19164f5a6c7950dc73fbd5310a9ec82ba1f31ee239",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/carrack-build.png",
+      "bytes": 2914674,
+      "sha256": "57f871528d82e9ce483a8f2edde1a0171cf471c95039d1040ef296f68d4ec93f",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/carrack-damaged.png",
+      "bytes": 2446827,
+      "sha256": "33b1e7aa60db5f704195b9328e53b53685853f2df45580d1d6b9298d02e68056",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/carrack-mission.png",
+      "bytes": 2452343,
+      "sha256": "830adad607a4f17bc59c4ff6f96d594c7848a11da9823687e373af7849869579",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/carrack-payload.png",
+      "bytes": 2801358,
+      "sha256": "d8e71b4e61e0fc764bcc4820718e35e968021fd354f958ec8668d8200941615a",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/carrack-repair.png",
+      "bytes": 2841325,
+      "sha256": "84022f8467789a2efa5da5ac0bd3a966bbd00a62d82fedc62692f2f90027b9cc",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/hammerhead-build.png",
+      "bytes": 2815602,
+      "sha256": "100f457f81217d9ecba79dec8589d49c70747eb97aa282d6c9c514e7d3536296",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/hammerhead-damaged.png",
+      "bytes": 2271741,
+      "sha256": "4f9bffc657b7b2112b817791333cfd0c3b85818a31818dfc148c0ec91bef1191",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/hammerhead-mission.png",
+      "bytes": 2317155,
+      "sha256": "a8aa381f6353503d9aa10d4f187162a90a1ea1e35c26c8a5b87ee99bda0d1b61",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/hammerhead-payload.png",
+      "bytes": 2762964,
+      "sha256": "c23a5bab214dbc14d128905c1c1a0d0c0dd23413541fba05478071c107204bc1",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/hammerhead-repair.png",
+      "bytes": 2772113,
+      "sha256": "5b3898d35731697052d2618bb18165f740a18155bcbf8ffcba00522b827f31c8",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/interdictor-build.png",
+      "bytes": 2750682,
+      "sha256": "b43c76e616589d345cfe5a501c2d1a72491fd59247a073f83f9940e18896e248",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/interdictor-damaged.png",
+      "bytes": 2271068,
+      "sha256": "897bb51e367381b2cddc9a149401f31aeda30b505aade1016c2fbf0905469008",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/interdictor-mission.png",
+      "bytes": 2268750,
+      "sha256": "1dad7b8a28427bab48b46e19a9f27affbfff807126b0ecf9f97c5d58e54909a2",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/interdictor-payload.png",
+      "bytes": 2602151,
+      "sha256": "621b84a6bf8a548f094d716d49816af5447c6dceaafffa5336c2fece2afb1726",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/interdictor-repair.png",
+      "bytes": 2683579,
+      "sha256": "f40383a7b1f43589b60bf35c0fb064b72fea2c47e408a02c853af5d8f84e0db0",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/prospector-build.png",
+      "bytes": 2928726,
+      "sha256": "9d3f53db86349e951dde51a3990b72798971459046838ba0ecadff05515801d8",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/prospector-damaged.png",
+      "bytes": 2253272,
+      "sha256": "e83775cc358c7efdcdba2d100627a79cb89257fb119d31cfaabe2d90caf24b36",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/prospector-mission.png",
+      "bytes": 2602296,
+      "sha256": "846fcabb66a738e17c6cb6f6f552ed3a22228f786ec86bb6c9764240f9d401c2",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/prospector-payload.png",
+      "bytes": 2853181,
+      "sha256": "aa8a4886464db58a5b687f32e76589c373dfb48cbcd78313c39e348c41e47194",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/prospector-repair.png",
+      "bytes": 2782394,
+      "sha256": "d723b7022d707d7c6fc3fcab6c6c94c60a0859baec78bdcb8bdde01006e80e6b",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/transport-mission.png",
+      "bytes": 2256801,
+      "sha256": "6fce3b29d9a3c521b7437182428a11b3151ba8fdcb5441f2849ee8a217196afb",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/vulture-build.png",
+      "bytes": 2838572,
+      "sha256": "dadf35b26cb34a7d8888e73df3346d7b547ffb53c3a58378c067fdbc90076210",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/vulture-damaged.png",
+      "bytes": 2372918,
+      "sha256": "a34081a7ad585712f891ce262a654fd4a8523f48de63d1500e19114ec617e003",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/vulture-mission.png",
+      "bytes": 2386182,
+      "sha256": "a329fc6b913dbfbf0d43414d96b7319f1d1ce9a98ba2a2e8aa6a965511598400",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/vulture-payload.png",
+      "bytes": 2894741,
+      "sha256": "4f6c7827c3426d1ff5c49b67053329d7106c31f6325a4df7bb8c8e4106626a52",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/vulture-repair.png",
+      "bytes": 2906992,
+      "sha256": "48ae119a76963c2f84059e9d24aafc64454cfa48794a67e3777728cdc0120e27",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/xwing-mission.png",
+      "bytes": 2357969,
+      "sha256": "bb6f8190d65bb1eaba3f73fcaaa30d345b476e52d6d4cb8c6f113f76f6419a30",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/ywing-build.png",
+      "bytes": 2963467,
+      "sha256": "0f856e10840ef79aaf4b189a6ebc19979bd22e148ee44209214aa7e06553300e",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/ywing-damaged.png",
+      "bytes": 2438459,
+      "sha256": "1581bdd71bded74d61972088cb72369818eb1debce9c41227e51868d261294a7",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/ywing-mission.png",
+      "bytes": 2555239,
+      "sha256": "a0369bb3c00d547f0842dfb71c5a1d2310468571da648aeb9fc0887d046231b2",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/ywing-payload.png",
+      "bytes": 2942239,
+      "sha256": "bbf904fb97c320bc9f977434b160eadf973fc20ebff51d7d81def7693288ad08",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/fleet/ywing-repair.png",
+      "bytes": 2796468,
+      "sha256": "0d393b9ffafef3859b0b5984eefbadccbe7d7fc6b77ca7df3b4af3b56bff9648",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/gas-giant-station.png",
+      "bytes": 2476343,
+      "sha256": "2bcb447cf19c74126eb82ab90ebe319b775b9d591e68e28a2bf92cbe3cefea5e",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/gr75-loading-v3.png",
+      "bytes": 2406493,
+      "sha256": "bd3cb58127a5c160d7ba42a46541e8f21dfd4694f046ca2dce6ff1fee704d9f7",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/isd-expedition.png",
+      "bytes": 2312591,
+      "sha256": "8a0102cc8388f17b229a14bde4d6848a199d00ef7bc2862dd3094dcaef4243df",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/isd-planetary-bombard.png",
+      "bytes": 2135098,
+      "sha256": "50adb8633820fbc3154ee48e6fd592d6fc76513cb9944f5061c58a5c52450056",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/terraforming.png",
+      "bytes": 2484452,
+      "sha256": "cf923e0be5b9f49aa31b8b865268afcf4d80ce75fa27ceaf9a4e38dc1bea131c",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/xwing-intercept.png",
+      "bytes": 2362714,
+      "sha256": "c847019dedd2e44ce3784a7eed532e34675503feb61fdea19f398217bb30e29d",
+      "provenance_group": "space"
+    },
+    {
+      "file": "space/xwing-patrol.png",
+      "bytes": 2414500,
+      "sha256": "e4a18253d5ac996c1b5f8b6d90fc9046f1be9837ad92fdb224065c0f7753b4ba",
+      "provenance_group": "space"
+    },
+    {
+      "file": "strategic/a10c-thunderbolt-strike.png",
+      "bytes": 2423038,
+      "sha256": "73a2b6be275ebf0b37b049aaa61672920945d4d16cf484f2b94fe33ad1c8d20d",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/aegis-intercept.png",
+      "bytes": 2056159,
+      "sha256": "a73e685f872a6136a09f540a71848de6263197d87aaa828e3840f821a0c4d957",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/apache-intercept.png",
+      "bytes": 1863307,
+      "sha256": "fb3607398e407abc762fccaf5177ceba889eb26f8be6601b0498e96b4cd064db",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/apache-strike.png",
+      "bytes": 2351186,
+      "sha256": "118ced2e7ad6e4b4c1633ba6a1ca682872137a6d264b0bf817904af5c275f5a4",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/b2-strike.png",
+      "bytes": 1877376,
+      "sha256": "cacee2c2e274368c9c90e6d02a8787928130ff83a70d5b1c5e35497495c5ede9",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/b52-intercept.png",
+      "bytes": 1797101,
+      "sha256": "ad2d97c99b9daa1f02edd577793410324e0f78680b07a93af909a8146024b0a2",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/b52-runway-strike.png",
+      "bytes": 2186120,
+      "sha256": "0627ebb28c58b32595c876b62aef888af6f2acb015cd880d3ff68a753721b629",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/c130j-rapid-dragon.png",
+      "bytes": 1922775,
+      "sha256": "fb50cd18e3582a15e198cebd177da0d91b312f268dc09789e44fb604644027aa",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/champ-microwave.png",
+      "bytes": 2049544,
+      "sha256": "e27f030b86d0e21961588004f927255fec4e742714893e37a93e7c111e91d8af",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/comanche-intercept.png",
+      "bytes": 1644457,
+      "sha256": "acd3017839c0354f052ad5ea83b64de2bd49d03a1d03c92b2c0545ef7c360830",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/comanche-strike.png",
+      "bytes": 1812191,
+      "sha256": "84592f9cae9ac6f1d73f897de791b04db580e9196a6af3de2e64926f8abf166c",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/comanche-upgrade.png",
+      "bytes": 2011992,
+      "sha256": "4769daaa9156403a2aa047c76043473a8c6523f903d9a61f18a37f1bca7ec77f",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/deimos-failed.png",
+      "bytes": 2350352,
+      "sha256": "469547ed56cbccaa6a6d2c59b94a8aee3019ee3ca45feed85c1bede4c40a098b",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/deimos-success.png",
+      "bytes": 758494,
+      "sha256": "fe87ce2b201a512e3e0c4213e0da2f4e1985669056e85d04ea78efb737e6a865",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f15e-strike.png",
+      "bytes": 1896009,
+      "sha256": "a1118ad102cb9ee1f4d4dda03c26abc3cc1e7096c29e2df54a4f2c6159162b94",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f22-build.png",
+      "bytes": 2313546,
+      "sha256": "8db0d15e94342e527e5aaf8e6970d05d51087b9de88bdc75937b15de855859fd",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f22-damaged.png",
+      "bytes": 2329260,
+      "sha256": "a80fbefeaefd354b04b2a22dfe020961e328d84c3a3fea327795ab9997ba3b93",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f22-load.png",
+      "bytes": 2080100,
+      "sha256": "d8f01c0aae369501feb66196752e1bb98fbe0bf8ddd204a7d6455919abe8931e",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f22-mission.png",
+      "bytes": 2240895,
+      "sha256": "24c4d5979af08cd5013c930fd9ac87772728492c213e090d03a1bc915e4db5fb",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f22-repair.png",
+      "bytes": 2438828,
+      "sha256": "31d7d5e58977e6dd6aa40c1481e2566026b4d3fb073ad852bf9362bc8e475a5a",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f35-build.png",
+      "bytes": 2473461,
+      "sha256": "d205de78178ea8916b914b8949bdf7dc5435cad72cde0e89d42f4ae82ebe466c",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f35-damaged.png",
+      "bytes": 2340515,
+      "sha256": "386300664c565fc9d49aa1db2444334054000f7bc03f0b1848385803c54b87df",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f35-load.png",
+      "bytes": 2000734,
+      "sha256": "cdc124baba30d7da79b9da76280baf6c7c1d19a586575e0d9c63e3ddaecb39e0",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f35-mission.png",
+      "bytes": 2579571,
+      "sha256": "cc2f5f673ededc11d82b8de8dec8d74688f55eb23e0f82e9c80b8f1faa91d392",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/f35-repair.png",
+      "bytes": 2426122,
+      "sha256": "13b393aeecbfd3cc13f8dc25ea097afc92936d0b1dd9240a3b816bd2c6592105",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/fgm148f-javelin-intercept.png",
+      "bytes": 2177306,
+      "sha256": "ec0a5f4539655850f9fc35407f397bcd2112718ac8b4f2ad92440c84454e6a4c",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/fgm148f-javelin-team.png",
+      "bytes": 2456610,
+      "sha256": "b84702a128729ccffeb2b6affd61f4d44efb15ed0ed244d3acc85841590fcfc7",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/himars-strike.png",
+      "bytes": 1987351,
+      "sha256": "0c5217c2c1ffcd7e798a3fde4181a2597107feb215a12451db29d98e3391981c",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/j20-build.png",
+      "bytes": 2593143,
+      "sha256": "aca93a7c0e6aec1227000432df63353876db014df293fd0c1a79100b9e83284b",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/j20-damaged.png",
+      "bytes": 2264078,
+      "sha256": "89e2300bf43c45cc694b19c1e4e97f935d5acef15f0597da7369ae579291dbad",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/j20-load.png",
+      "bytes": 2099570,
+      "sha256": "dc964d1bb34549fa58e1fdd07ed4970fd7956a93124766b406953ed17c01173d",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/j20-mission.png",
+      "bytes": 2169550,
+      "sha256": "14274e55e06029cff24796f9c185b74da10a127be4b9c6838768b867737c6636",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/j20-repair.png",
+      "bytes": 2515221,
+      "sha256": "1a5cea6bde92071f09d940b1a230e098e5b5351b059f8e75e135492af93a49e5",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/leopard-2a7a1.png",
+      "bytes": 2590569,
+      "sha256": "fda29b78bade9a61544b736e20a9fbd5bff2cc588e6a0ac3610d94a5eaa206d1",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/leopard-armored-breach.png",
+      "bytes": 2738146,
+      "sha256": "72df9c59069ace09367a4cb69fb0d7b88a5ca870534191cac1db15cc38895d1e",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/leopard-damaged-repair.png",
+      "bytes": 2528171,
+      "sha256": "1141fd0bacd6beceec9fe859d39d5c075df3cc9079fc6889fc58f061a3f6d251",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/leopard-javelin-intercept.png",
+      "bytes": 2520399,
+      "sha256": "83cc5499322f0d4ec4a97e71ac7e1cd64f2f9e9e4f43fa3e7a690ef612683046",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/lrhw-dark-eagle.png",
+      "bytes": 1859920,
+      "sha256": "d5382f69daac9b8aed7993d2012a2f15456361a64f84856d65188d656041b05e",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/m1a2-armored-breach.png",
+      "bytes": 2612456,
+      "sha256": "72690cbf3210abe7d0f8ee80d90b12fbf391eed68062fba4a31b9cdf848dae54",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/m1a2-damaged-repair.png",
+      "bytes": 2552535,
+      "sha256": "6dab2d927919e57c99f00a29ffee1862a44a4bb77ea3e7e29fba1abacb1b004e",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/m1a2-sepv3-abrams.png",
+      "bytes": 2449996,
+      "sha256": "0b9a2a0ff6e955e173e460cf66407db6c4495ae454646eaa189dea9c74f0fb8b",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/m1a2-trophy-intercept.png",
+      "bytes": 2140385,
+      "sha256": "05feb1d7b8186ff2fa9d6fd4c1bea64b09c3f2a25cdb14a80c826a9db4d8ad20",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/maldx-decoy.png",
+      "bytes": 1823627,
+      "sha256": "809f9cdae5dc438cff3a298dca4857ce15426a4818503989d9d0f4116c4a8caf",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/mq9-strike.png",
+      "bytes": 2048666,
+      "sha256": "d23a16a87005b78ac1626d5c91f82ce1b74af27a0960efce60389b001ac7c211",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/p8-intercept.png",
+      "bytes": 1956340,
+      "sha256": "2ee5e32b5f1dce376bbd65c11a25f5302f07a2a79984a605d7bf88b38504a778",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/patriot-intercept.png",
+      "bytes": 1921990,
+      "sha256": "7ac7cf9b67056011d77889fb27da3a978fd784d56cbf125169b8b18a0cc98b00",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/s400-intercept.png",
+      "bytes": 2033056,
+      "sha256": "9cce0edf43c533d3e0b3aa9e0ecc06b6a1e5126f6b53bd2c56fa48e5a7c74e93",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/sr71-build.png",
+      "bytes": 2475771,
+      "sha256": "1e64d9eaac6ba0b3e1907f1c0b69554ff4e3f9cc794e0df0bbd891a2d06e3ca9",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/sr71-recon.png",
+      "bytes": 2438822,
+      "sha256": "920cabc8aa3e8c21d3aef33a5337103dc4ab138e00bd96e94d7b2c26347eaff6",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/sr71-shotdown.png",
+      "bytes": 1829366,
+      "sha256": "013c4d804f3bc164216cd97b66fdcfe5ec76c13ef77eebebe2e60cc8995bcac3",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/su34-fullback-strike.png",
+      "bytes": 2256740,
+      "sha256": "4abf1720b1ba7218211662d0859917bfc6de283ffd7b4cb003b54a29c60f211b",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/su57-build.png",
+      "bytes": 2823645,
+      "sha256": "2e195200d159eccb276c3acb553e645907da24ebabb86a2593fedabc3c1eaa05",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/su57-damaged.png",
+      "bytes": 2713975,
+      "sha256": "a77f81e08bc39324a150a93ee75100218e2be00c483e1e895c059dde1bc08e7a",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/su57-load.png",
+      "bytes": 2494484,
+      "sha256": "aa6979bcc2116012ce97c9ac691ff59566cf99dfebe4bf7f98f1076f72a9a8ac",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/su57-mission.png",
+      "bytes": 2357681,
+      "sha256": "49f32806c6c34d18777d2cf7451dbfc0c145e353257d9fde0a654190bd6b4a52",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/su57-repair.png",
+      "bytes": 2652019,
+      "sha256": "b064ee2204f76439b5c0cc00a5bad4b7d2c09034fcc7d169628982c177bee745",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/u2-recon.png",
+      "bytes": 2150120,
+      "sha256": "d7598a93b59e9013be6a2d390a6018c2e6ec6141dacde8b0ee7e96878326bf8a",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/virginia-raid.png",
+      "bytes": 1920042,
+      "sha256": "ad4abac8990ef33ed0d6e5783ed13acec2917a20cefbb33742e6777bd767a350",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/xb70-valkyrie.png",
+      "bytes": 2098309,
+      "sha256": "45812f4590361050832d7882600bb2cc8ce4ae26a84d1520c900e80c75f63d50",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "strategic/zumwalt-strike.png",
+      "bytes": 2195502,
+      "sha256": "00ea9eeac8e744ebdee434bc530132491e3b584ce523e53eae68f897c007e875",
+      "provenance_group": "strategic"
+    },
+    {
+      "file": "thor/thor-bifrost-fabrication.png",
+      "bytes": 2470931,
+      "sha256": "db95ecba033ce9406531ea1e367c588835164228c6b10229755463a3d47e846e",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-gbi-intercept.png",
+      "bytes": 1344655,
+      "sha256": "0225927bc0e6915ef77f974667513272a32546ddc90545e13964077baac5d193",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-impact.png",
+      "bytes": 2643465,
+      "sha256": "c890d3a96e236e9b713029699320e79dfc5ccace1bef1fa6b2564a24cb1073f1",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-mjolnir-fabrication.png",
+      "bytes": 2507281,
+      "sha256": "e41163e8a13c8b1c1ee78eb2a330785195803e9041c61c1d3f07d6dc8cd485d2",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-module-launch.png",
+      "bytes": 1854723,
+      "sha256": "11f6bcabf514d6ca13b2b75b9184fd47de8ddfa306aa8cc2cb680a9bbbbbed2b",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-odin-fabrication.png",
+      "bytes": 2694960,
+      "sha256": "0f4a74df055a8997f2943ea4c085b354ded4f17b17502bb2b5bbe1b024e5a310",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-orbital-assembly.png",
+      "bytes": 2327214,
+      "sha256": "9c88487f5c7d127fdac8d84668fd65852e27715b181ad86372d5b25272e37799",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-rod-loading.png",
+      "bytes": 2448225,
+      "sha256": "80f17b7784b97a8587760f82f2ca411943a21dd9ac3f8f49c808602764af81b3",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-rod-release.png",
+      "bytes": 2056079,
+      "sha256": "e036dbdd37a68131a52c0825c204b085a986a73c6e31222f451306d03ae29b45",
+      "provenance_group": "thor"
+    },
+    {
+      "file": "thor/thor-sm3-intercept.png",
+      "bytes": 1768686,
+      "sha256": "900d065a593eb677cb7f8b16bc2e0d121f2131907ce19d1dc1343d214778708f",
+      "provenance_group": "thor"
+    }
+  ]
+}
